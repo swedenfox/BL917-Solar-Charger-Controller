@@ -37,8 +37,4 @@ Developed by **Andrea Nostro**.
 - WebSocket communication
 - `flutter_blue_plus` for Bluetooth scanning
 
-## Getting started
 
-```bash
-flutter pub get
-flutter run
