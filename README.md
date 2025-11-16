@@ -1,6 +1,6 @@
 # BL917-Solar-Charger-Controller
 Monitor and control your BL917 MPPT solar controller from your phone
-![image]((https://github.com/swedenfox/BL917-Solar-Charger-Controller/assets/readme/bl917solarcontroller.jpg))
+![image]((https://github.com/swedenfox/BL917-Solar-Charger-Controller/assets/readme/bl917solarcontroller.jpg)
 
 A cross platform Flutter app that connects to the BL917 MPPT solar charge controller using its hidden WebSocket API.  
 No registration, no vendor cloud, full local control.
